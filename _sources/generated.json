@@ -1,0 +1,22 @@
+{
+    "mihomo-meta": {
+        "cargoLocks": null,
+        "date": "2025-01-02",
+        "extract": null,
+        "name": "mihomo-meta",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "owner": "MetaCubeX",
+            "repo": "mihomo",
+            "rev": "2debb953ad196b2f67e5e740da1c8dcba0cb4c0b",
+            "sha256": "sha256-leeD/lra0ZA7in5ZX+uZwWRyHEaE9WzC8UEigI+Z+aA=",
+            "type": "github"
+        },
+        "version": "2debb953ad196b2f67e5e740da1c8dcba0cb4c0b"
+    }
+}
