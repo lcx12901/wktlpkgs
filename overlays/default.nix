@@ -13,7 +13,7 @@ let
     v
     // (
       if builtins.hasAttr "date" v then
-        { version = "unstable-${v.date}"; }
+        { date = "unstable-${v.date}"; }
       else if final.lib.strings.hasPrefix "v" v.version then
         { version = final.lib.substring 1 (-1) v.version; }
       else
