@@ -1,7 +1,7 @@
 {
     "mihomo-meta": {
         "cargoLocks": null,
-        "date": "2025-01-02",
+        "date": "2024-12-31",
         "extract": null,
         "name": "mihomo-meta",
         "passthru": null,
@@ -13,10 +13,10 @@
             "name": null,
             "owner": "MetaCubeX",
             "repo": "mihomo",
-            "rev": "2debb953ad196b2f67e5e740da1c8dcba0cb4c0b",
+            "rev": "1c5f4a3ab12ae748cf85b1f14e1841f3b570e9c3",
             "sha256": "sha256-leeD/lra0ZA7in5ZX+uZwWRyHEaE9WzC8UEigI+Z+aA=",
             "type": "github"
         },
-        "version": "2debb953ad196b2f67e5e740da1c8dcba0cb4c0b"
+        "version": "1c5f4a3ab12ae748cf85b1f14e1841f3b570e9c3"
     }
 }

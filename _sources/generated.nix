@@ -3,14 +3,14 @@
 {
   mihomo-meta = {
     pname = "mihomo-meta";
-    version = "2debb953ad196b2f67e5e740da1c8dcba0cb4c0b";
+    version = "1c5f4a3ab12ae748cf85b1f14e1841f3b570e9c3";
     src = fetchFromGitHub {
       owner = "MetaCubeX";
       repo = "mihomo";
-      rev = "2debb953ad196b2f67e5e740da1c8dcba0cb4c0b";
+      rev = "1c5f4a3ab12ae748cf85b1f14e1841f3b570e9c3";
       fetchSubmodules = false;
       sha256 = "sha256-leeD/lra0ZA7in5ZX+uZwWRyHEaE9WzC8UEigI+Z+aA=";
     };
-    date = "2025-01-02";
+    date = "2024-12-31";
   };
 }
