@@ -1,9 +1,9 @@
 {
-    "mihomo-meta": {
+    "mihomo-alpha": {
         "cargoLocks": null,
         "date": "2024-12-31",
         "extract": null,
-        "name": "mihomo-meta",
+        "name": "mihomo-alpha",
         "passthru": null,
         "pinned": false,
         "src": {

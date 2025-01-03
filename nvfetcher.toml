@@ -1,5 +1,5 @@
 
-[mihomo-meta]
+[mihomo-alpha]
 src.git = "https://github.com/MetaCubeX/mihomo"
 src.branch = "Alpha"
 fetch.github = "MetaCubeX/mihomo"

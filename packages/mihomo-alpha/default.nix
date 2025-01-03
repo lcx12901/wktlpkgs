@@ -5,7 +5,7 @@
   ...
 }:
 buildGoModule rec {
-  inherit (_sources.mihomo-meta) pname version src;
+  inherit (_sources.mihomo-alpha) pname version src;
 
   vendorHash = "sha256-0CStTmN2+bXJuoolVM8Spfj2HKYK7a8krxlA0uwHOOw=";
 
@@ -26,7 +26,7 @@ buildGoModule rec {
   doCheck = false;
 
   postInstall = ''
-    mv $out/bin/mihomo $out/bin/mihomo-meta
+    mv $out/bin/mihomo $out/bin/mihomo-alpha
   '';
 
   meta = with lib; {
@@ -34,5 +34,6 @@ buildGoModule rec {
     homepage = "https://github.com/MetaCubeX/mihomo/tree/Alpha";
     license = licenses.gpl3Only;
     maintainers = with maintainers; [ lcx12901 ];
+    mainProgram = pname;
   };
 }
