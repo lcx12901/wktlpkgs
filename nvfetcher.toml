@@ -11,6 +11,6 @@ fetch.url = "https://registry.npmjs.org/@vue/language-server/-/language-server-2
 src.git = "https://github.com/xna00/unocss-language-server"
 fetch.url = "https://registry.npmjs.org/unocss-language-server/-/unocss-language-server-0.1.5.tgz"
 
-[waydroid-script]
+[waydroid_script]
 src.git = "https://github.com/huakim/waydroid_script"
 fetch.github = "huakim/waydroid_script"

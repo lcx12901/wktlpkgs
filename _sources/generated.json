@@ -49,11 +49,11 @@
         },
         "version": "f68dafb4e37e6ea8c0285401e67e5f2fc2623913"
     },
-    "waydroid-script": {
+    "waydroid_script": {
         "cargoLocks": null,
         "date": "2024-12-15",
         "extract": null,
-        "name": "waydroid-script",
+        "name": "waydroid_script",
         "passthru": null,
         "pinned": false,
         "src": {

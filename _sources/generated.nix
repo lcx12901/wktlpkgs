@@ -31,8 +31,8 @@
     };
     date = "2025-01-04";
   };
-  waydroid-script = {
-    pname = "waydroid-script";
+  waydroid_script = {
+    pname = "waydroid_script";
     version = "3cfa1e43e7da4b0c07a4c83d331e4776012e2acd";
     src = fetchFromGitHub {
       owner = "huakim";
