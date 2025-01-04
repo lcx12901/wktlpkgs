@@ -1,5 +1,7 @@
-
 [mihomo-alpha]
 src.git = "https://github.com/MetaCubeX/mihomo"
 src.branch = "Alpha"
 fetch.github = "MetaCubeX/mihomo"
+[vue-language-server]
+src.git = "https://github.com/vuejs/language-tools"
+fetch.url = "https://registry.npmjs.org/@vue/language-server/-/language-server-2.2.0.tgz"

@@ -18,5 +18,20 @@
             "type": "github"
         },
         "version": "1c5f4a3ab12ae748cf85b1f14e1841f3b570e9c3"
+    },
+    "vue-language-server": {
+        "cargoLocks": null,
+        "date": "2025-01-04",
+        "extract": null,
+        "name": "vue-language-server",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-foWKEhK8YE4ZsbejJUKKPNR+G7ZrJWIPEk/1PVe6YRo=",
+            "type": "url",
+            "url": "https://registry.npmjs.org/@vue/language-server/-/language-server-2.2.0.tgz"
+        },
+        "version": "f68dafb4e37e6ea8c0285401e67e5f2fc2623913"
     }
 }

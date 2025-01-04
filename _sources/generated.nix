@@ -13,4 +13,13 @@
     };
     date = "2024-12-31";
   };
+  vue-language-server = {
+    pname = "vue-language-server";
+    version = "f68dafb4e37e6ea8c0285401e67e5f2fc2623913";
+    src = fetchurl {
+      url = "https://registry.npmjs.org/@vue/language-server/-/language-server-2.2.0.tgz";
+      sha256 = "sha256-foWKEhK8YE4ZsbejJUKKPNR+G7ZrJWIPEk/1PVe6YRo=";
+    };
+    date = "2025-01-04";
+  };
 }
