@@ -19,6 +19,21 @@
         },
         "version": "1c5f4a3ab12ae748cf85b1f14e1841f3b570e9c3"
     },
+    "unocss-language-server": {
+        "cargoLocks": null,
+        "date": "2024-06-20",
+        "extract": null,
+        "name": "unocss-language-server",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-kreygtkQG7Dhd0MPs2Ee2rr60++yCxHcSNcpEFcQ8ng=",
+            "type": "url",
+            "url": "https://registry.npmjs.org/unocss-language-server/-/unocss-language-server-0.1.5.tgz"
+        },
+        "version": "1ee463faa32a0109ed95ded115b27ed3ff5c0285"
+    },
     "vue-language-server": {
         "cargoLocks": null,
         "date": "2025-01-04",

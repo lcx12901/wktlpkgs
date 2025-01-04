@@ -13,6 +13,15 @@
     };
     date = "2024-12-31";
   };
+  unocss-language-server = {
+    pname = "unocss-language-server";
+    version = "1ee463faa32a0109ed95ded115b27ed3ff5c0285";
+    src = fetchurl {
+      url = "https://registry.npmjs.org/unocss-language-server/-/unocss-language-server-0.1.5.tgz";
+      sha256 = "sha256-kreygtkQG7Dhd0MPs2Ee2rr60++yCxHcSNcpEFcQ8ng=";
+    };
+    date = "2024-06-20";
+  };
   vue-language-server = {
     pname = "vue-language-server";
     version = "f68dafb4e37e6ea8c0285401e67e5f2fc2623913";
