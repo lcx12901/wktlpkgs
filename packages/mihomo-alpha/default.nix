@@ -7,7 +7,7 @@
 buildGoModule rec {
   inherit (_sources.mihomo-alpha) pname version src;
 
-  vendorHash = "sha256-0CStTmN2+bXJuoolVM8Spfj2HKYK7a8krxlA0uwHOOw=";
+  vendorHash = "sha256-LMzq6EUQMbnAxjt84dk5kDKRlQXdhjN7SzP+aeLPE00=";
 
   # Do not build testing suit
   excludedPackages = [ "./test" ];
