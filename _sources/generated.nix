@@ -3,15 +3,15 @@
 {
   mihomo-alpha = {
     pname = "mihomo-alpha";
-    version = "1c5f4a3ab12ae748cf85b1f14e1841f3b570e9c3";
+    version = "c7661d7765fb62acbc6571e76f2922083b0b2b04";
     src = fetchFromGitHub {
       owner = "MetaCubeX";
       repo = "mihomo";
-      rev = "1c5f4a3ab12ae748cf85b1f14e1841f3b570e9c3";
+      rev = "c7661d7765fb62acbc6571e76f2922083b0b2b04";
       fetchSubmodules = false;
-      sha256 = "sha256-leeD/lra0ZA7in5ZX+uZwWRyHEaE9WzC8UEigI+Z+aA=";
+      sha256 = "sha256-fjqJAmB2zCAGaUN41feR9q1gV5B+4oTKShPKhw8i2a0=";
     };
-    date = "2024-12-31";
+    date = "2025-01-07";
   };
   unocss-language-server = {
     pname = "unocss-language-server";
@@ -24,12 +24,12 @@
   };
   vue-language-server = {
     pname = "vue-language-server";
-    version = "f68dafb4e37e6ea8c0285401e67e5f2fc2623913";
+    version = "8db00176cc61cbca2d20c187219f5f478fadc833";
     src = fetchurl {
       url = "https://registry.npmjs.org/@vue/language-server/-/language-server-2.2.0.tgz";
       sha256 = "sha256-foWKEhK8YE4ZsbejJUKKPNR+G7ZrJWIPEk/1PVe6YRo=";
     };
-    date = "2025-01-04";
+    date = "2025-01-07";
   };
   waydroid_script = {
     pname = "waydroid_script";

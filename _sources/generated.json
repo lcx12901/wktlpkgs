@@ -1,7 +1,7 @@
 {
     "mihomo-alpha": {
         "cargoLocks": null,
-        "date": "2024-12-31",
+        "date": "2025-01-07",
         "extract": null,
         "name": "mihomo-alpha",
         "passthru": null,
@@ -13,11 +13,11 @@
             "name": null,
             "owner": "MetaCubeX",
             "repo": "mihomo",
-            "rev": "1c5f4a3ab12ae748cf85b1f14e1841f3b570e9c3",
-            "sha256": "sha256-leeD/lra0ZA7in5ZX+uZwWRyHEaE9WzC8UEigI+Z+aA=",
+            "rev": "c7661d7765fb62acbc6571e76f2922083b0b2b04",
+            "sha256": "sha256-fjqJAmB2zCAGaUN41feR9q1gV5B+4oTKShPKhw8i2a0=",
             "type": "github"
         },
-        "version": "1c5f4a3ab12ae748cf85b1f14e1841f3b570e9c3"
+        "version": "c7661d7765fb62acbc6571e76f2922083b0b2b04"
     },
     "unocss-language-server": {
         "cargoLocks": null,
@@ -36,7 +36,7 @@
     },
     "vue-language-server": {
         "cargoLocks": null,
-        "date": "2025-01-04",
+        "date": "2025-01-07",
         "extract": null,
         "name": "vue-language-server",
         "passthru": null,
@@ -47,7 +47,7 @@
             "type": "url",
             "url": "https://registry.npmjs.org/@vue/language-server/-/language-server-2.2.0.tgz"
         },
-        "version": "f68dafb4e37e6ea8c0285401e67e5f2fc2623913"
+        "version": "8db00176cc61cbca2d20c187219f5f478fadc833"
     },
     "waydroid_script": {
         "cargoLocks": null,
